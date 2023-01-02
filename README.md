@@ -31,9 +31,12 @@ Ejecutar cambios DELTA a Y o Y a DELTA, de tal manera que sea posible la rosoluc
 
 **2.1.2 Método de la corriente en ramas**
 
+![image](https://user-images.githubusercontent.com/116696484/210280671-d59bbca3-2fef-47be-8309-18008c6ea65e.png)
+
 
 **2.1.3 Método de la corriente de lazo**
 
+![image](https://user-images.githubusercontent.com/116696484/210280687-ae67a5cd-d2f6-413e-aa1b-dc3515cad82a.png)
 
 
 **2.1.4 Método del voltaje en nodos**
@@ -46,30 +49,36 @@ Ejecutar cambios DELTA a Y o Y a DELTA, de tal manera que sea posible la rosoluc
 
 **2.2.1 El campo magnético**
 
+![image](https://user-images.githubusercontent.com/116696484/210280716-f46e21dc-3fae-41de-8436-02c57553161d.png)
 
 
 **2.2.2 Electromagnetismo**
 
+![image](https://user-images.githubusercontent.com/116696484/210280728-27a30aa5-a176-4fb3-87aa-95f05931a09a.png)
 
 **2.2.3 Dispositivos electromagnéticos**
 
+![image](https://user-images.githubusercontent.com/116696484/210280760-9f8beff2-afb2-4778-bf42-7ea3672e1a0f.png)
 
 
 **2.2.4 Histéresis magnética**
 
+![image](https://user-images.githubusercontent.com/116696484/210280770-c2ef16d4-559a-4392-bf9c-d73f2259021f.png)
 
 
 **2.2.5 Inducción electromagnética**
 
+![image](https://user-images.githubusercontent.com/116696484/210280779-7892c2cd-b8ed-469b-b77e-b7f11801c604.png)
 
 
 **2.2.6 Aplicaciones de la inducción electromagnética**
 
+![image](https://user-images.githubusercontent.com/116696484/210282295-20e98fc8-da3a-48ab-a8b2-ef1f9abc8885.png)
 
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
-**Capítulo 7: Circuitos en serie-paralelo**
+**Capítulo 9: Análisis de ramas, lazos y nodos**
 
 ***1. Visualice y trace las siguientes combinaciones en serie-paralelo: 
 (a) R1 en serie con la combinación en paralelo de R2 y R3 
