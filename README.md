@@ -26,18 +26,19 @@ Ejecutar cambios DELTA a Y o Y a DELTA, de tal manera que sea posible la rosoluc
 
 **2.1.1 Ecuaciones simultáneas en el análisis de circuitos**
 
+![image](https://user-images.githubusercontent.com/116696484/210258864-81ec1f1a-8ee3-483c-9bbe-acb6c8d71dcb.png)
 
 
 **2.1.2 Método de la corriente en ramas**
 
 
-
-**2.1.3 Método de la corriente en trayectorias cerradas**
+**2.1.3 Método de la corriente de lazo**
 
 
 
 **2.1.4 Método del voltaje en nodos**
 
+![image](https://user-images.githubusercontent.com/116696484/210258899-66bde225-021a-4d5a-b8c7-58b8bd322260.png)
 
 
 
