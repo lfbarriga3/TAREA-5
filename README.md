@@ -252,7 +252,7 @@ Ejecutar cambios DELTA a Y o Y a DELTA, de tal manera que sea posible la rosoluc
 
 ### 4. VIDEO
 
-https://youtu.be/YkzKwq0gsKE
+https://youtu.be/WEAH1AmQp0Q
 
 ### 5. CONCLUSIONES 
 
