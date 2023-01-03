@@ -167,90 +167,62 @@ Cuando la sección transversal de un campo magnético incrementa, la densidad de
 ![image](https://user-images.githubusercontent.com/116696484/210393348-385cb47e-ccb8-4f73-b9c1-1cf2909483c0.png)
 
 
-***3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 3 1026 T y el área de sección transversal mide 150 cm2?***
+***3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500x10^-6 T y el área de sección transversal mide 150 cm^2 ?***
 
-![image](https://user-images.githubusercontent.com/116696484/207751885-08632a82-4d74-4f02-b6da-f72522936883.png)
+![image](https://user-images.githubusercontent.com/116696484/210411972-f4e3f214-afa0-4e83-82df-ccfc2bd3a17c.png)
 
-***5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 k. Conviértala en una fuente de voltaje equivalente***
-
-![image](https://user-images.githubusercontent.com/116696484/207751943-63a39ca2-de59-4634-9343-2eb1a0c819ef.png)
-
-***7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.***
-
-![image](https://user-images.githubusercontent.com/116696484/207752006-7a7611ac-7c04-41c5-aa47-837c51d30f81.png)
-
-***9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70***
-
-![image](https://user-images.githubusercontent.com/116696484/207752057-a044e080-cfae-42bb-9999-0fc5dcc3a3ad.png)
-
-![image](https://user-images.githubusercontent.com/116696484/207752075-f9ba647c-52da-4ce2-a7dd-b64d867aed88.png)
+![image](https://user-images.githubusercontent.com/116696484/210411995-02aafd25-773d-4fe1-beae-bae57158edbe.png)
 
 
-***11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 k, ¿cuál es el intervalo del voltaje de referencia?***
+***5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 µT. Exprese esta densidad de flujo en gauss.***
 
-![image](https://user-images.githubusercontent.com/116696484/207752124-49de5ec0-8153-4995-a47a-67cbae2c0e67.png)
+![image](https://user-images.githubusercontent.com/116696484/210412065-e37c92b6-78ae-4cfa-a0d1-f1765cef2ac2.png)
 
+***7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750x10^-6 Wb/At-m?***
 
-***13. Determine el voltaje del punto A al punto B en la figura 8-73***
+![image](https://user-images.githubusercontent.com/116696484/210412111-640759f6-5c57-4188-b633-1115629d1afd.png)
 
-![image](https://user-images.githubusercontent.com/116696484/207752205-8bc4b29d-2270-48da-a880-ffb825308c25.png)
+***9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?***
 
-![image](https://user-images.githubusercontent.com/116696484/207752248-59423851-d106-4d9c-b791-799f9a35886e.png)
+![image](https://user-images.githubusercontent.com/116696484/210412168-0c3efcd2-eb24-4ef5-8fe7-073165178879.png)
 
-
-***15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).***
-
-![image](https://user-images.githubusercontent.com/116696484/207752323-cb3e6156-def6-4fad-a84a-07f8e36c91a6.png)
-
-![image](https://user-images.githubusercontent.com/116696484/207752355-20c99aff-4646-4746-bcf0-4b8de3989d91.png)
-
-
-***17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.***
-
-![image](https://user-images.githubusercontent.com/116696484/207752400-1b09262a-f021-4136-9608-bc7529ec150a.png)
+***11. 
+(a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? 
+Una fuerza electromagnética mueve el émbolo cuando se activa el solenoide.
+(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+Una fuerza de resorte devuelve el émbolo a su posición de reposo. 
+***
 
 
-***19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. ***
+***13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?***
 
-![image](https://user-images.githubusercontent.com/116696484/207752472-92a8460e-ac0c-4a08-9237-b205585af89a.png)
-
-
-***21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.***
-
-![image](https://user-images.githubusercontent.com/116696484/207752521-afcf4960-4dcc-4726-be57-4300958fef29.png)
-
-***23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL***
-
-![image](https://user-images.githubusercontent.com/116696484/207752601-6d81f015-58a4-4931-839b-f8f5704bcf9d.png)
-![image](https://user-images.githubusercontent.com/116696484/207752641-f8fa790b-9fea-4178-ac80-edd99ce44667.png)
-![image](https://user-images.githubusercontent.com/116696484/207752677-cabea2b8-bc33-41f4-a0df-05cd0a0f51e4.png)
+El puntero en un movimiento de d'Arsonval es desviado por la fuerza electromagnética cuando hay corriente a través de la bobina.
 
 
-***25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.***
+***15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?***
 
-![image](https://user-images.githubusercontent.com/116696484/207752746-9aa6db13-8b46-4256-a0a6-79ba34761fac.png)
+![image](https://user-images.githubusercontent.com/116696484/210412367-be6a9e03-ebcd-4a19-a749-e8be809aca7d.png)
 
+***17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad***
 
-***27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL***
+![image](https://user-images.githubusercontent.com/116696484/210412537-c2163b90-114f-4672-9f59-7a5e0b2338e1.png)
 
-![image](https://user-images.githubusercontent.com/116696484/207754328-b0c53c46-7d86-4e40-a314-e29ed5900683.png)
+***19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético***
 
+Movimiento relativo, Polaridad del voltaje inducido y la corriente inducida
 
-***29. Aplique el teorema de Norton al circuito de la figura 8-84***
+***21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?***
 
-![image](https://user-images.githubusercontent.com/116696484/207754387-f9be2170-6f32-4f42-9670-4ecfba2a374c.png)
+La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina. La ley de Lenz define la polaridad o dirección del voltaje inducido.
 
-**31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima***
+***23. Explique el propósito del conmutador y de las escobillas en la figura 10-35***
 
-![image](https://user-images.githubusercontent.com/116696484/207754432-74af311b-7226-4bd2-aeab-49e7925e85fa.png)
+![image](https://user-images.githubusercontent.com/116696484/210412729-eaf23ad7-8c8b-4bd4-8cc9-c19414724c0a.png)
 
-***33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?***
+***25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.***
 
-![image](https://user-images.githubusercontent.com/116696484/207754508-89f4258e-7e8a-4b70-9772-34b3e4674ff3.png)
+![image](https://user-images.githubusercontent.com/116696484/210412843-11fb1f5d-69fa-4dd2-a457-d2bd29a2453d.png)
 
-***35. En la figura 8-89, convierta cada red Y en una red delta.***
-
-![image](https://user-images.githubusercontent.com/116696484/207754572-1e424366-a137-478b-8162-38443308a60d.png)
 
 
 ### 4. VIDEO
