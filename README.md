@@ -160,11 +160,14 @@ Ejecutar cambios DELTA a Y o Y a DELTA, de tal manera que sea posible la rosoluc
 
 **2.2 Capítulo 10: Magnetismo y Electromagnetismo**
 
-***1. Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 . Conviértala en una fuente de corriente equivalente***
+***1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?***
 
-![image](https://user-images.githubusercontent.com/116696484/207751834-3a1202ac-0c5e-4ece-a2e9-0b56df3fa6e1.png)
+Cuando la sección transversal de un campo magnético incrementa, la densidad de flujo disminuye, ya que son magnitudes inversamente proporcionales
 
-***3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?***
+![image](https://user-images.githubusercontent.com/116696484/210393348-385cb47e-ccb8-4f73-b9c1-1cf2909483c0.png)
+
+
+***3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 3 1026 T y el área de sección transversal mide 150 cm2?***
 
 ![image](https://user-images.githubusercontent.com/116696484/207751885-08632a82-4d74-4f02-b6da-f72522936883.png)
 
