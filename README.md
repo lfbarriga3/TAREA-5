@@ -5,20 +5,24 @@
 
 **1.1 Objetivo General**
 
-Reconocer los métodos adecuados para la resolución de circuitos eléctricos, de tal manera que sea posible ejecutar una resolución más práctica mediante un análisis previo que nos permita identificar la mejor opción para resolver el circuito que nos presenten. 
+Reconocer nuevos métodos basados en la ley de ohm y las leyes de kirchhoff de tal manera que sea posible resolver de manera más sencilla ejercicios con mayor grado de dificultad.
+
+Conocer los principios básicos de magnetismo y electromagnetismo a través de la teoría con el propósito de aplicar dichos conocimientos a la resolución de problemas
 
 
 **1.2 Objetivos Específicos**
 
-Reconocer las relaciones en serie-paralelo presentes en un circuito eléctrico.
+Recordar los procesos algebraicos para la resolución de sistemas de ecuaciones.
 
-Determinar el efecto de carga que tiene un voltímetro al realizar las mediciones.
+Reconocer la diferencia entre lazo, nodo y rama.
 
-Determinar la resistencia total, corrientes y caídas de voltaje en circuitos serie-paralelo.
+Utilizar el método de la corriente en ramas, lazos y nodos para determinar cantidades desconocidas en un circuito
 
-Aplicación de teoremas para la resolución de ejercicios.
+Entender los principios de operación en varios tipos de dispositivos electromagnéticos
 
-Ejecutar cambios DELTA a Y o Y a DELTA, de tal manera que sea posible la rosolución de ejercicios de una manera más sencilla.
+Describir aplicaciones relacionadas a la inducción electromagnética
+
+ Conoce r el principio de histéresis magnética
 
 ### 2. MARCO TEÓRICO
 
@@ -231,11 +235,11 @@ https://youtu.be/WEAH1AmQp0Q
 
 ### 5. CONCLUSIONES 
 
-A lo largo del presente informe se ha logrado identificar los casos en los cuales es más conveniente aplicar teoremas para la resolución de circuitos, dado que de esta manera se puede resolver los ejercicios de manera más sencilla, para ello, es importante conocer las situaciones en las cuales es beneficioso aplicar dichos métodos.
+A lo largo del presente informe se ha identificado que en el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos. Un lazo es una trayectoria completa para la corriente que circula en un circuito. En el método de la corriente en lazos, se determinarán las corrientes de lazo, y no las corrientes de rama. En el método del voltaje en nodos, se determinarán los voltajes presentes en los nodos independientes de un circuito.
 
-Adicionalmente se aprendió a identificar las fallas que puedan presentarse al momento de armar el circuito experimentalmente, de tal manera que con los cálculos sea posible dar un pronóstico de las posibles causas que estén generando dicha falla en el circuito.
+Adicionalmente se realizó una inducción a magnetismo y electromagnetismo de tal manera que fue posible aprender conceptos básicos referentes al tema tratado y para complementar se realizaron ejercicios de aplicación para un mejor entendimiento del capítulo.
 
-Se determinó que el teorema de superposición nos ayudará a abordar circuitos que tienen múltiples fuentes, los teoremas de Thevenin y de Norton en cambio ponen a nuestro alcance métodos apropiados para reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis y por último el teorema de transferencia de potencia máxima que se utiliza en aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga.
+
 
 ### 6. BIBLIOGRAFÍA
 
@@ -243,4 +247,6 @@ Campomanes, J. G. (1990). Circuitos eléctricos (Vol. 2). Universidad de Oviedo.
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
 
-Vásquez, J. R. G. (2008). Teoremas fundamentales de circuitos eléctricos (Doctoral dissertation, Universidad Tecnológica de Pereira. Facultad de Ingenierías Eléctrica, Electrónica, Física y Ciencias de la Computación. Ingeniería Eléctrica.).
+Martín, J. C. (2012). Magnetismo y electromagnetismo (Máquinas eléctricas). Editex.
+
+Purcell, E. M. (2001). Electricidad y magnetismo (Vol. 2). Reverté.
